@@ -1,0 +1,278 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: white;
+    width: 1512px;
+}
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+.bruhh{
+    color: black;
+    text-decoration: none;
+    font-weight: 500px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.first{
+    background-image: url(./images/figma\ 1.png);
+    height: 650px;
+    width: 1512px;
+    padding-top: 300px;
+    padding-left: 50px;
+}
+.edit{
+            cursor: pointer;
+            border: 1px solid black;
+            background-color: transparent;
+            height: 51px;
+            width: 145px;
+            margin-top: 30px;
+            color: black;
+            box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
+.edit2{
+    cursor: pointer;
+            border: 1px solid white;
+            background-color: transparent;
+            height: 51px;
+            width: 145px;
+            margin-top: 30px;
+            color: white;
+            box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
+.edit3{
+    cursor: pointer;
+            border: 1px solid white;
+            background-color: transparent;
+            height: 51px;
+            width: 145px;
+            margin-top: 30px;
+            color: white;
+            box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
+.one{
+    font-size: 80px;
+    font-family: Cormorant Garamond;
+}
+.one-p{
+    font-size: 25px;
+    font-family: karla;
+}
+.secound{
+    text-align: center;
+    height: 619px;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+.photo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 40px;
+}
+.marama{
+    font-size: 40px;
+    font-weight: 40px;
+    font-family: Cormorant Garamond;
+    line-height: 48.44px;
+    margin-top: 20px;
+}
+.two-p{
+    font-size: 28px;
+    font-weight: 400;
+    font-style: italic;
+    font-family: Cormorant Garamond;
+    line-height: 33.91px;
+    margin-top: 20px;
+}
+.third{
+    background-color: black;
+    color: white;
+    height: 638px;
+    width: 1512px;
+}
+.three-p{
+    font-weight: 435;
+    font-size: 22px;
+    line-height: 25.72px;
+    font-family: karla;
+    padding-top: 30px;
+}
+.four-p{
+    font-weight: 435;
+    font-size: 22px;
+    line-height: 25.72px;
+    font-family: karla; 
+    padding-top: 30px;   
+}
+.h22{
+    font-family: cormorant Garamond;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42.39px;
+    padding-top: 100px;
+}
+h3{
+    font-family: karla;
+    font-size: 19px;
+    font-weight: 400;
+    margin-top: 50px;
+}
+.under{
+    height: 638px;
+    width: 850px;
+    display: inline-block;
+    padding-left: 100px;
+}
+.fourth{
+    width: 1512px;
+    height: 498px;
+    background-color: #f4f0eb;
+    margin-top: 40px;
+}
+.four{
+    height: 638px;
+    width: 850px;
+    display: inline-block;
+    padding-left: 100px;
+    text-align: justify;
+    padding-right: 70px;
+}    
+.gold{
+    font-family: cormorant garamond;
+    font-weight: 700;
+    font-size: 45px;
+    padding-top: 60px;    
+}
+.cream{ 
+    font-family: karla;
+    font-weight: 400;
+    font-size: 23px;
+    padding-top: 40px;
+}
+.fifth{
+    background-color: black;
+    width: 1512px;
+    height: 746px;
+    margin-top: 40px;
+    color: white;
+}
+.five{
+    height: 800px;
+    width: 800px;
+    display: inline-block;
+    padding-left: 100px;  
+    margin-top: 100px;  
+}
+.blacknote{
+    font-family: karla;
+    font-weight: 400;
+    font-size: 23px;
+    margin-top: 40px;    
+}
+.secblacknote{
+    font-family: karla;
+    font-weight: 400;
+    font-size: 23px;
+    margin-top: 40px;    
+}
+.about{
+    font-family: cormorant garamond;
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 60px;    
+}
+.container{
+    height: 500px;
+    width: 1512px;
+    background-color: #efebe8;
+}
+.caro{
+    width: 100%;
+    height: 235px;
+    padding-top: 44px;
+    padding-left: 51px;
+    display: flex;
+    justify-content: space-between;
+}
+.dylan{
+    width: 60px;
+    height: 12px;
+    font-family: Karla;
+    font-size: 14px;
+    font-weight: 344;
+    line-height: 16.37px;
+    text-align: left;
+    border-color: transparent;
+    box-shadow: none;
+    margin-top: 6px; 
+}
+label{
+    font-family: Karla;
+    font-size: 13px;
+    font-weight: 344;
+    line-height: 15.2px;
+    text-align: left;
+    padding-left: 10px;
+}
+.mint{
+}
+input{
+    border-color: transparent;
+    padding: 0px;
+    margin: 0px;
+}
+.ad{
+    width: 401px;
+    height: 36px;
+    border: 0.5px solid #BEBEBE;
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.root{
+    font-family: Cormorant Garamond;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 27.85px;
+    text-align: left;
+    padding: 0px;
+    margin: 0px;    
+}
+.only{
+    font-family: Cormorant Garamond;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.22px;
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+}
+.dark{
+    font-family: Cormorant Garamond;
+    font-size: 14px;
+    font-weight: 700;
+}
+.backwoods{
+    font-family: Karla;
+    font-size: 13px;
+    font-weight: 400;
+    color: #404040;    
+    text-decoration: none;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+}
