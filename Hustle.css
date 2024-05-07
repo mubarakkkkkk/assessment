@@ -36,17 +36,15 @@ body{
             width: 145px;
             margin-top: 30px;
             color: black;
-            box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
 }
 .edit2{
-    cursor: pointer;
+            cursor: pointer;
             border: 1px solid white;
             background-color: transparent;
             height: 51px;
             width: 145px;
             margin-top: 30px;
             color: white;
-            box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
 }
 .edit3{
     cursor: pointer;

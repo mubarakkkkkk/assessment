@@ -25,7 +25,6 @@ a{
     width: 614px;
     height: 730px;
     color: white;
-    padding-top: 56px;
     padding-left: 44px;
 }
 .text{
@@ -39,7 +38,7 @@ a{
     border: 1px solid #EBEBEB7D;
     margin-top: 35.65px;
 }
-h1{
+.always{
     padding-top: 169px;
     padding-left: 69px;
     font-family: Cormorant Garamond;
@@ -85,6 +84,7 @@ h1{
     font-family: Cormorant Garamond;
     font-weight: 400;
     font-size: 40px;
+    
 }
 .article{
     font-size: 17px;

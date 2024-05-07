@@ -1,0 +1,343 @@
+body{
+    background: white;
+    width: 1512px;
+}
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: 500px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.adobe{
+    background-image: url(/images/adobe\ shock.png);
+    width: 1512px;
+    height: 380px;
+    color: white;
+}
+.montana{
+    font-family: Karla;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.38px;
+    text-align: center; 
+}
+.bullion{
+    font-family: Cormorant Garamond;
+    font-size: 53px;
+    font-weight: 400;
+    line-height: 64.18px;
+    text-align: center;    
+} 
+.phot{
+    width: 384px;
+    height: 256px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgray;    
+}    
+.frek{
+    width: 384px;
+    height: 256px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.round{
+    height: 196px;
+    width: 384px;
+}
+.robo{
+    width: 384px;
+    height: 52px;
+    gap: 4px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+}
+.massa{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(107, 114, 128, 1);
+}
+.pali{
+    height: 452px;
+    margin-right: 20px;
+}
+.eagle{
+    width: 384px;
+    height: 480px;
+}
+.yu{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+.twi{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(107, 114, 128, 1);
+}
+.disk{
+    width: 384px;
+    height: 480px;
+    gap: 16px;
+}
+.tab{
+    width: 384px;
+    height: 256px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgrey;
+}
+.dem{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+.pagan{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(107, 114, 128, 1);
+}
+.man{
+    width: 384px;
+    height: 256px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgrey;
+}
+.fbi{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+} 
+.mustbe{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(107, 114, 128, 1);
+}
+.opp{
+    width: 384px;
+    height: 480px;
+    gap: 16px;
+}
+.nulla{
+    width: 384px;
+    height: 168px;
+    float: left;
+    padding-left: 100px;
+}
+.lean{
+    font-family: Cormorant Garamond;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(107, 114, 128, 1);
+}
+.bop{
+    font-family: Cormorant Garamond;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: -0.025em;
+    text-align: left;
+}
+.grid{
+    padding-right: 10px;
+    float: right;
+}
+.firstpage{
+    height: 1108px;
+    padding-top: 50px;
+}
+.town{
+    display: flex;
+}
+.roll{
+    display: flex;
+}
+.shine{
+    font-family: Cormorant Garamond;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: -0.025em;
+    text-align: left;
+}
+.sinn{
+    font-family: Cormorant Garamond;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(107, 114, 128, 1);
+}
+.gold{
+    width: 384px;
+    height: 168px;
+    float: left;
+    padding-left: 100px;
+}
+.we{
+    width: 384px;
+    height: 256px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgrey;
+}
+.gun{
+    width: 384px;
+    height: 52px;
+    gap: 4px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+}
+.sun{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(107, 114, 128, 1);
+}
+.tra{
+    width: 384px;
+    height: 256px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgrey;
+}
+.conn{
+    width: 384px;
+    height: 52px;
+    gap: 4px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+}
+.maya{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(107, 114, 128, 1);
+}
+.ii{
+    width: 384px;
+    height: 256px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgrey; 
+}
+.iv{
+    width: 384px;
+    height: 52px;
+    gap: 4px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+}
+.ivv{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(107, 114, 128, 1);
+}
+.vi{
+    width: 384px;
+    height: 256px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgrey;
+}
+.viii{
+    width: 384px;
+    height: 52px;
+    gap: 4px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+}
+.v8{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(107, 114, 128, 1);
+}
+.ata{
+    height: 196px;
+    width: 384px;
+}
+.date{
+    height: 196px;
+    width: 384px;
+}
+.iii{
+    height: 196px;
+    width: 384px;
+}
+.vii{
+    height: 196px;
+    width: 384px;
+}
+.pep{
+    display: flex;
+}
+.klop{
+    display: flex;
+}
+.collage{
+    float: right;
+    width: 869px;
+    height: 1000px;
+}
