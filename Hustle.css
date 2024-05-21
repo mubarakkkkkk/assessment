@@ -206,3 +206,144 @@ h3{
     font-size: 45px;
     margin-top: 60px;    
 }
+.pass{
+    display: flex;
+    width: 401px;
+    height: 36px;
+    background-color: white;
+    align-items: center;
+    padding-left: 15px;
+}
+.fa{
+    width: 29px;
+    height: 29px;
+    align-items: center;
+    border-radius: 50px;
+    font-size: 25px;
+    padding-left: 7px;
+    padding-top: 5px;
+}
+.fa-facebook{
+    background-color: #00000096;
+    color: #DDD9D7;
+}
+.fa-instagram{
+    color: #00000096;
+}
+.dollop{
+    border: 1px solid white;
+}
+.crack{
+    font-family: Karla;
+    font-size: 13px;
+    font-weight: 344;
+    line-height: 15.2px;
+    text-align: left;
+    color: #A59D9D;
+}
+.foot{
+    cursor: pointer;
+    border: 1px solid white;
+    background-color: transparent;
+    color: #A59D9D;
+    width: 60px;
+    height: 12px;
+    font-family: Karla;
+    font-size: 14px;
+    font-weight: 344;
+    line-height: 16.37px;
+    text-align: left;
+}
+.much{
+    display: flex;
+}
+footer{
+    background-color: #EFEBE8;
+    height: 347px;
+}
+.container-1{
+    padding-top: 44px;
+    padding-left: 51px;
+    display: flex;
+    justify-content: space-around;
+}
+.container-2{
+    display: flex;
+}
+.team{
+    font-family: Cormorant Garamond;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.95px;
+    text-align: left;
+}
+.team-2{
+    font-family: Cormorant Garamond;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.95px;
+    text-align: left;
+}
+.team-3{
+    font-family: Cormorant Garamond;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.95px;
+    text-align: left;
+}
+.team-4{
+    font-family: Cormorant Garamond;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.95px;
+    text-align: left;
+}
+li{
+    list-style: none;
+    font-family: Karla;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15.2px;
+    text-align: left;
+    color: #404040;
+}
+.step{
+    font-family: Cormorant Garamond;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 27.85px;
+    text-align: left;
+}
+.puff{
+    font-family: Cormorant Garamond;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.22px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+.cry{
+    font-family: Karla;
+    font-size: 13px;
+    font-weight: 435;
+    line-height: 15.2px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 90px;
+}
+.inc{
+    font-family: Karla;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 12.86px;
+    text-align: left;
+    padding-top: 80px;
+    padding-left: 467px;
+    margin: 10px;
+}
+li{
+    padding-top: 20px;
+}
+.feds{
+    justify-content: space-evenly;
+}
